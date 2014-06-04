@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: org.bgjug.bundle
+Bundle-SymbolicName: org.bgjug.bundle
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: org.bgjug.Activator
+Bundle-Vendor: bgjug
+Require-Bundle: org.eclipse.osgi
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8,
+ JavaSE-1.7
+Bundle-ActivationPolicy: lazy
